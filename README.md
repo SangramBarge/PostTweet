@@ -1,5 +1,5 @@
 # PostTweet
-Post a Tweet on Command Prompt using Python
+Post a Tweet from Command Prompt using Python
 
 Simple Python Application which helps to post a tweet from command prompt
 
